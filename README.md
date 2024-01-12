@@ -30,3 +30,8 @@ Read this [tutorial](https://noteardha.notion.site/noteardha/RVC-Training-69e456
 
 ## Training V2 and Youtube Audio Download & Splitting Audio Combined by MinatoIsuki (With UI, Colab Pro Only)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinatoIsuki/AI-Song-Cover-RVC/blob/main/Training_V2_and_Youtube_Audio_Download_%26_Splitting_Audio_combined.ipynb)
+
+## Training V2 and Youtube Audio Download & Splitting Audio and Run GUI Combined by Laynz28 (Without Ui and With UI for Colab Pro Only)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/TrainingV2_train_assets_downloading_other.ipynb)
+
+
